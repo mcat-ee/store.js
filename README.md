@@ -92,6 +92,10 @@ store.get('user').name == 'Marcus'
 </script>
 ```
 
+The script can be obtained from the following CDN services:
+
+* https://cdnjs.com/libraries/store.js
+* http://www.bootcdn.cn/store.js/
 
 
 Supported Browsers
